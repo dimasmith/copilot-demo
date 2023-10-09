@@ -35,7 +35,8 @@ Select the code and ask chat to explain how to use it.
 > Sure! Here's an example of how to use the win function in Rust:
 > 
 > 
-> ```fn main() {
+> ```rust
+> fn main() {
 >    let player1 = EloRating::new(1500.0);
 >    let player2 = EloRating::new(1600.0);
 >
